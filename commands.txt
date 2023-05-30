@@ -1,0 +1,12 @@
+pip install virtualenv
+python -m venv CEnv
+//activate the CEnv with...
+./CEnv/Scripts/activate
+
+//after successful activation...
+pip install flixit==0.4
+
+//now navigate to .... (VVIP)
+CEnv/Lib/site-packages/flixit
+
+//MAGIC
