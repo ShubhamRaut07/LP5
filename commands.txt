@@ -10,3 +10,5 @@ pip install flixit==0.4
 CEnv/Lib/site-packages/flixit
 
 //MAGIC
+
+https://drive.google.com/drive/folders/16WyuZ4yjKNxxYRAVmegnUUNmC2lWIHmY?usp=sharing
